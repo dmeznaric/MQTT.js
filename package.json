@@ -52,7 +52,7 @@
     "inherits": "^2.0.1",
     "minimist": "^1.1.0",
     "mqtt-connection": "^2.0.0",
-    "mqtt-packet": "^3.2.0",
+    "mqtt-packet": "^4.0.3",
     "readable-stream": "~1.0.2",
     "reinterval": "^1.0.1",
     "websocket-stream": "^2.0.2",
